@@ -1,1 +1,0 @@
-{"class": "playing", "text": "BB Cooper - Gaslight - Gaslight (01:51/03:14) ", "tooltip": "Gaslight\nby BB Cooper\nfrom Gaslight\n(spotify)"}

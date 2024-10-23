@@ -19,8 +19,8 @@ $scripts/wall $HOME/Pictures/Wallpapers &
 $scripts/rgb &
 
 # startup apps
-rog-control-center &
-discord &
+# discord &
+# spotify &
 
 # other
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
