@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+grim -o $(hyprctl activeworkspace | grep "on monitor" -m 1 | awk '{print substr($7, 1, length($7)-1)}') - | wl-copy
+notify-send "Screenshot copied to clipboard" -a "ss"

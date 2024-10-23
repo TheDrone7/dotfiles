@@ -1,0 +1,6 @@
+{
+  "inlayHint.refreshOnInsertMode": true,
+  "diagnostic.refreshOnInsertMode": true,
+  "snippets.ultisnips.pythonPrompt": false,
+  "svelte.enable-ts-plugin": false
+}
